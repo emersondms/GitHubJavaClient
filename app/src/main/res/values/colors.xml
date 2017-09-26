@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#343438</color>
+    <color name="colorTitle">#2761A5</color>
+    <color name="colorForks">#DF940A</color>
+    <color name="colorUserName">#C0C0C0</color>
+    <color name="colorDivider">#EBEBEB</color>
+</resources>
